@@ -6,7 +6,7 @@ import java.util.Set;
 
 public class LinkedList<T extends Comparable<T>> {
 
-    private Node<T> head, tail;
+    private Node<T> head, tale;
     private int length;
 
     public LinkedList() {
